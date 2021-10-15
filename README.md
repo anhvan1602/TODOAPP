@@ -1,0 +1,3 @@
+﻿Công nghệ Web, Bài tập 1: Todo App
+Công nghệ sử dụng:React Hooks (useState, useEffect, useContext,...); CSS cho content; Upload lên host...
+https://youtu.be/9zcMnJI3B7M
