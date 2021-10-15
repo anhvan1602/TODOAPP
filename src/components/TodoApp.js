@@ -24,13 +24,13 @@ function TodoApp() {
 
     const deletetask = (e, id) => {
         e.preventDefault();
-        setTaskList(tasklist.filter((t) => t.id != id));
+        setTaskList(tasklist.filter((t) => t.id !== id));
     };
 
     const taskCompleted = (e, id) => {
         e.preventDefault();
         //let's find index of element
-        const element = tasklist.findIndex((elem) => elem.id == id);
+        const element = tasklist.findIndex((elem) => elem.id === id);
 
         //copy array into new variable
         const newTaskList = [...tasklist];
