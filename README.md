@@ -1,2 +1,2 @@
 Vận dụng kiến thức đã học để thiết kế ứng dụng "Todo App" có sử dụng một số công nghệ: Router, React Hooks (useState, useEffect, useContext,...); React Vertical timelize; CSS cho content; Upload lên host...
-https://youtu.be/9zcMnJI3B7M
+tham khảo:https://youtu.be/9zcMnJI3B7M
